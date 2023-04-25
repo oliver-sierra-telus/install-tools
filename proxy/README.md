@@ -16,6 +16,13 @@ This will open VisualStudioCode in the Profile file. Inside it you must copy the
 
 It is important that you change the $telusProxy variable to the VPN address provided by your technical leader.
 
+*you have to change*
+
+- *WRITE_THE_PROXY*
+- *,SITES_IGNORED_BY_PROXY*
+
+*In the following code*
+
 ```bash
 function SetProxy() {
   $telusProxy = "WRITE_THE_PROXY"
