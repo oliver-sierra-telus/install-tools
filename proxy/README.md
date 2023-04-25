@@ -2,6 +2,13 @@
 
 The following instructions will help you to configure the VPN for the Windows Power Shell bash.
 
+## 0. Set Execution Policy for Current user
+
+Execute this command in a powershell
+
+```bash
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
 
 To configure the VPN on Windows you need to create a bash profile
 
