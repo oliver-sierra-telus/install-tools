@@ -1,4 +1,4 @@
-# CONFIGURE VPN ON WINDOWS
+# CONFIGURE PROXY ON WINDOWS
 
 The following instructions will help you to configure the VPN for the Windows Power Shell bash.
 
